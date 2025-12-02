@@ -347,3 +347,13 @@ x.shape = [4, 400]
 [Training a Classifier](https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#define-a-convolutional-neural-network)
 [CNN原理](https://www.bilibili.com/video/BV1eh1LBjEkx/?share_source=copy_web&vd_source=2942ada437a134a36e1c9049cdf770dd)
 [学习记录](https://copilot.microsoft.com/shares/M5wT7psfzfTu1qyRWDxgH)
+
+
+```
+最后来一首四言诗
+
+《张量颂》
+维度如川，层层相叠； 元素如星，点点相接。 方格定影，万象皆收； 数理之美，天地同流。
+坐标织网，秩序如经； 数据成诗，抽象有情。 简而不凡，深而无穷； 张量之境，万物归融。
+
+```
