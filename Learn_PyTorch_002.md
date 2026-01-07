@@ -280,6 +280,7 @@ Conv → Convolution（卷积）
   bound = sqrt(6 / in_channels × kernel_size × kernel_size)
       = sqrt(6 / 3 × 5 × 5) ≈ 0.2828
   所以每个卷积核元素都从 [-0.28, 0.28] 之间随机采样
+  数学推导参考：https://developer.aliyun.com/article/1507764
   
   ```
 
@@ -338,10 +339,7 @@ x.shape = [4, 16, 5, 5]
 ```
 x.shape = [4, 400]
 ```
-因为：
-\[
-16 * 5 * 5 = 400
-\]
+因为：16 * 5 * 5 = 400
 
 ---
 
